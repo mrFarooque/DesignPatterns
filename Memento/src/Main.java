@@ -16,7 +16,6 @@ public class Main {
  */
 class Editor {
     private String content;
-    private EditorState editorState;
     private History history;
     Editor() {
         history = new History();
