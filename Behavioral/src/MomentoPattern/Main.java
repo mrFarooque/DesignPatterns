@@ -1,3 +1,5 @@
+package MomentoPattern;
+
 import java.util.Stack;
 
 public class Main {
@@ -71,7 +73,7 @@ class History {
 
     @Override
     public String toString() {
-        return "History{" +
+        return "MomentoPattern.History{" +
                 "states=" + states +
                 '}';
     }

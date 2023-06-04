@@ -1,3 +1,4 @@
+package AdapterPattern;
 /**
  * Note:
  * Here ICalculator is a simple interface which only adds two numbers at a time but as a third party code
